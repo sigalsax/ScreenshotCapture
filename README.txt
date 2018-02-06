@@ -1,2 +1,0 @@
-This program (Screenshot.py) records and captures 5 screenshots every second and saves them in the same folder that program runs
-Perquisite: must have Python 2.7 running in order to run compiled program correctly
